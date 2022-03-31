@@ -1,6 +1,6 @@
 {
-  "token": "OTU2NjM4OTQxMzQyMjI4NTIx.YjzJcQ.Rt4RU4NxwG7Hj97L00XiMakAlpI",
+  "token": "",
   "prefix": ["a!"],
-  "mongoUrl": "mongodb+srv://mixerationDB:EC9pNNPGNot1ut3k@mixeration.oszk5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "owners": ["852649525554446357"]
+  "mongoUrl": "mongodb+srv",
+  "owners": [""]
 }
